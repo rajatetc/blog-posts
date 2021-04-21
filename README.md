@@ -1,3 +1,3 @@
 ﻿# blog-posts
 
-# backup for my articles at https://rajatgupta.xyz/
+backup for my articles at https://rajatgupta.xyz/
