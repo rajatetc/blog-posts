@@ -48,7 +48,7 @@ We will be using the hooks and icons in the project.
 
 ### Variables
 
-Save the URL we navigated to before in a variable. The default image will be used before anything is fetched from the API.
+Save the URL we navigated to before in a variable. The default image will be used before we set the random user.
 
 ```
   const url = 'https://randomuser.me/api/'
