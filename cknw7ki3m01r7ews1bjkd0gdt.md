@@ -120,7 +120,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Dest
 
 ### useEffect
 
-Now, that we have our function. Let's set it up such that it is called whenever the app gets mounted using `useEffect` hook.
+Now, that we have our function. Let's set up our `useEffect` hook.
 
 ```
   useEffect(() => {
