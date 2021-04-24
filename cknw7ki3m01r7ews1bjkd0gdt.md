@@ -79,7 +79,7 @@ We pass in the `URL` in the fetch method, the response is stored in the response
 
 ### Destructure
 
-If you do a `console.log(data)`, you will see data similar to the one we saw when we analyzed the API above. Let's destructure some of the properties relevant to us. And finally set it to our state variable `randomPerson`
+If you do a `console.log(data)`, you will see data similar to the one we saw when we analyzed the API above. Inside the function, let's destructure some of the properties relevant to us. And finally set it to our state variable `randomPerson`
 
 ```
     const {
