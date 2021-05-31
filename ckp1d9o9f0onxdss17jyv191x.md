@@ -185,10 +185,9 @@ const obj = {
 **Explicit binding** is when you force a function to use a certain object as its `this`.
 
 Ways to do that:
-![call_apply_bind.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1621778902215/zTttpgyTS.png)
+![call-bind-apply.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1622489263380/UwpR9Rscv.png)
 
 ### ❓  Output
-
 
 ```
 const myData = {
