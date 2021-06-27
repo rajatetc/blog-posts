@@ -20,8 +20,9 @@ After one week or so -  I did a follow-up. To my good fortune - they had startin
 3. Senior Engineering Manager (~ 30 m)
 4. Culture ( ~ 30 min)
 
-Platform: Google Meet
-Coding Environment: CodeSandbox
+**Platform:** Google Meet
+
+**Coding Environment:** CodeSandbox
 
 # ✔️ JS Fundamentals
 
