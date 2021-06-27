@@ -67,13 +67,13 @@ All the interviewers were very friendly. At no point - it felt like an interroga
 
 - Thoroughly researched the company - I had gone through their leadership principles, tech blog, videos, recent initiatives, and so on. I had also checked their product - analyzed the UI/UX and checked the lighthouse report for the website. I got positive feedback from every interviewer and they were impressed that I knew so much about the company.
 
-- Beforehand I had also prepped my intro, spoken out loud when coding during the process, and asked specific questions at the end. I also reached out to friends and mentors to make sure that I am not over-preparing or headed in the wrong direction.
+- Beforehand I had also prepared my intro, spoken out loud when coding during the process, and asked specific questions at the end. I also reached out to friends and mentors to make sure that I am not over-preparing or headed in the wrong direction.
 
 Finally, I had an overall positive and high-energy approach to everything.
 
 ## 📚 Resources
 
-In my journey to learn web development, I had perused many resources - ranging from documentation, videos, courses to articles, Twitter, and LinkedIn posts.
+In my journey to learn web development, I have perused many resources - ranging from documentation, videos, courses to articles, Twitter, and LinkedIn posts.
 
 Here, I share some of the key resources:
 
