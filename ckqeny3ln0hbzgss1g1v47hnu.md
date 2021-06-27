@@ -4,7 +4,7 @@ I have joined Unacademy as Software Engineer, Web. I am a final-year BTech stude
 
 In this article - I will share how I got the opportunity, interview experience, tips, and the resources that helped me.
 
-# 🐣 First Contact
+## 🐣 First Contact
 
 It all started when one of my articles went viral. The article in question: https://rajatgupta.xyz/js-interview-1. I had shared the article on LinkedIn. An Unacademy recruiter liked my article. So, I cold DM'ed him for a chance to interview.
 
@@ -12,7 +12,7 @@ To my delight - he said that he has already checked out my portfolio - resume, p
 
 After one week or so -  I did a follow-up. To my good fortune - they had starting hiring for a junior role. The recruiter explained everything related to the rounds over a call and scheduled the first round.
 
-# 🥊 The Rounds
+## 🥊 The Rounds
 
 
 1.  JS Fundamentals (~ 1 hr)
@@ -24,7 +24,7 @@ After one week or so -  I did a follow-up. To my good fortune - they had startin
 
 **Coding Environment:** CodeSandbox
 
-# ✔️ JS Fundamentals
+## ✔️ JS Fundamentals
 
 It started with a simple intro. Then we quickly jumped to JS questions. The questions revolved around the concepts of closures, setTimeout, this, async/await, and promises.
 
@@ -32,7 +32,7 @@ For the output-based questions: the interviewer first gave a simple question and
 
 There was no DS/Algo but there were questions like writing the ` Promise.all()` method from scratch to test problem-solving skills. The interviewer gave hints or directed me whenever I got stuck.
 
-# 🌋 Frontend with React
+## 🌋 Frontend with React
 
 This took place after a few days. There were two interviewers in this round. One was just shadowing the whole process.
 
@@ -44,7 +44,7 @@ In the end - the interviewer also asked JS questions on this, objects, new opera
 
 After two days, the next two rounds took place on the same day.
 
-# 🧑🏻‍💼 Senior Engineering Manager
+## 🧑🏻‍💼 Senior Engineering Manager
 
 This round was with employee #9 at Unacademy. Now, we are 5000+.
 
@@ -52,14 +52,14 @@ It was more of a discussion on how I approach problems, team dynamics, and cultu
 
 Questions related to culture fit like what worked in the previous internship and what didn't were peppered in between. He also asked what would I would like to work on.
 
-# 👘 Culture
+## 👘 Culture
 
 It was again more of a discussion. Questions related to behavior and situations like how will you react if the project you were working on for a few months gets shelved.
 
 
 All the interviewers were very friendly. At no point - it felt like an interrogation. They guided me whenever I got stuck.
 
-# ⚙️ What Worked For me 
+## ⚙️ What Worked For me 
 
 - Building in public. All my projects are hosted online. They have proper readMEs and posted on relevant platforms like Linkedin. This caught their attention in the first place and allowed me to skip the take-home assignment.
 
@@ -71,7 +71,7 @@ All the interviewers were very friendly. At no point - it felt like an interroga
 
 Finally, I had an overall positive and high-energy approach to everything.
 
-# 📚 Resources
+## 📚 Resources
 
 In my journey to learn web development, I had perused many resources - ranging from documentation, videos, courses to articles, Twitter, and LinkedIn posts.
 
