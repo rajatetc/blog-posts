@@ -30,7 +30,7 @@ It started with a simple intro. Then we quickly jumped to JS questions. The ques
 
 For the output-based questions: the interviewer first gave a simple question and then added more complexity to it.
 
-There was no DS/Algo but there were questions like writing the` Promise.all()` method from scratch to test problem-solving skills. The interviewer gave hints or directed me whenever I got stuck.
+There was no DS/Algo but there were questions like writing the ` Promise.all()` method from scratch to test problem-solving skills. The interviewer gave hints or directed me whenever I got stuck.
 
 # 🌋 Frontend with React
 
@@ -65,7 +65,7 @@ All the interviewers were very friendly. At no point - it felt like an interroga
 
 - Doubled down on strengthening my fundamental knowledge of JS and React. I had also prepped for CSS but that didn't come in my round 2. This helped me tackle the coding questions in the rounds.
 
-- Thoroughly researched the company - I had gone through their leadership principles, tech blog, videos, recent initiatives, and so on. I had also checked their product - UI/UX case and lighthouse report for the website. I got positive feedback from every interviewer and they were impressed that I knew so much about them.
+- Thoroughly researched the company - I had gone through their leadership principles, tech blog, videos, recent initiatives, and so on. I had also checked their product - analyzed the UI/UX and checked the lighthouse report for the website. I got positive feedback from every interviewer and they were impressed that I knew so much about the company.
 
 - Beforehand I had also prepped my intro, spoken out loud when coding during the process, and asked specific questions at the end. I also reached out to friends and mentors to make sure that I am not over-preparing or headed in the wrong direction.
 
