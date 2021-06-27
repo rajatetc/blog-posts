@@ -50,7 +50,7 @@ This round was with employee #9 at Unacademy. Now, we are 5000+.
 
 It was more of a discussion on how I approach problems, team dynamics, and culture fit. It started with technical questions on what I had done in my previous internship and optimizations in my projects. 
 
-Questions related to culture fit like what worked in the previous internship and what didn't were peppered in between. He also asked what would I would like to work on.
+Questions related to culture fit like what worked in the previous internship and what didn't were peppered in between. He also asked what I would like to work on.
 
 ## 👘 Culture
 
