@@ -18,7 +18,7 @@ After one week or so -  I did a follow-up. To my good fortune - they had started
 1.  JS Fundamentals (~ 1 hr)
 2. Frontend with React (~ 1 hr)
 3. Senior Engineering Manager (~ 30 m)
-4. Culture ( ~ 30 min)
+4. Culture ( ~ 30 m)
 
 **Platform:** Google Meet
 
