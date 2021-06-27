@@ -10,7 +10,7 @@ It all started when one of my articles went viral. The article in question: http
 
 To my delight - he said that he has already checked out my portfolio - resume, projects, and articles and will get back to me if any relevant openings come up.
 
-After one week or so -  I did a follow-up. To my good fortune - they had starting hiring for a junior role. The recruiter explained everything related to the rounds over a call and scheduled the first round.
+After one week or so -  I did a follow-up. To my good fortune - they had started hiring for a junior role. The recruiter explained everything related to the rounds over a call and scheduled the first round.
 
 ## 🥊 The Rounds
 
