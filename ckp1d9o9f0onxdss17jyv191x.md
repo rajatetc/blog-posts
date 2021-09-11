@@ -1,5 +1,7 @@
 ## 🎯 JS Interview Checklist - Part 1 (Basics)
 
+**Update:** I recommend checking the v2 here: https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/
+
 Prepping for your next interview ❓ I have the perfect checklist for you. Go through this and you are ready to rock 💃
 
 ## 📝Prerequisites
