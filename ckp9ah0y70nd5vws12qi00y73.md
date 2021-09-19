@@ -375,10 +375,10 @@ const throttle = (fn, limit) => {
     if (flag) {
       fn.apply(context, arguments)
       flag = false
-    }
     setTimeout(() => {
       flag = true
     }, limit)
+       }
   }
 }
 const func = throttle(expensive, 2000)
